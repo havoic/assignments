@@ -1,3 +1,6 @@
+# Maina Maurice Macharia
+# SCT211-0010/2022
+
 def main():
     weight=float(input("Enter weight in (kgs): "))
     height=float(input("Enter height in (M): "))
