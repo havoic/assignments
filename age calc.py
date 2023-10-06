@@ -1,3 +1,7 @@
+# Maina Maurice Macharia
+# SCT211-0010/2022
+
+
 import datetime
 
 current_date = datetime.date.today()
