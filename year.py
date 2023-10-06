@@ -1,3 +1,6 @@
+# Maina Maurice Macharia
+# SCT211-0010/2022
+
 def main():
     year=int(input("Enter year: "))
     leap_year_check(year)
