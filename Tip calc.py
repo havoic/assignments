@@ -1,3 +1,7 @@
+# Maina Maurice Macharia
+# SCT211-0010/2022
+
+
 bill_Amount=float(input("Enter Total Bill Amount: "))
 
 def display_Percentages():
