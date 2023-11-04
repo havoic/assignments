@@ -1,3 +1,4 @@
+# SCT211-0010/2022
 class Calc:
     def __init__(self,a,b):
         self.a=a
@@ -14,6 +15,7 @@ class Calc:
 
 
 
-obj1=Calc(20,10)
+obj1=Calc(20,10) #example object1
+obj2=Calc(30,20) #example object2
 print(obj1.add())
-print(obj1.multiplication())
+print(obj2.multiplication())
