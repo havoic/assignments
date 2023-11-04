@@ -1,0 +1,19 @@
+class Calc:
+    def __init__(self,a,b):
+        self.a=a
+        self.b=b
+        
+    def add(self):
+        return self.a+self.b
+    def subtract(self):
+        return self.a-self.b
+    def division(self):
+        return self.a/self.b
+    def multiplication(self):
+        return self.a*self.b
+
+
+
+obj1=Calc(20,10)
+print(obj1.add())
+print(obj1.multiplication())
